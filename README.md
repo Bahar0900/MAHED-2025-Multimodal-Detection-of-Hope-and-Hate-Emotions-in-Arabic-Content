@@ -1,0 +1,1 @@
+# MAHED-2025-Multimodal-Detection-of-Hope-and-Hate-Emotions-in-Arabic-Content
